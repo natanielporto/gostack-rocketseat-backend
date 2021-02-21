@@ -2,7 +2,6 @@
 
 ### Techs/libs: Express, Typescript, Date-fns,
 
-
 # Recuperação de senha
 
 **Requisitos Funcionais - quais funcionalidades existirão para a recuperação de senha**
